@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore logs
+*.log
+
+# Ignore Git repository files
+.git
+.gitignore
+
+# Ignore Jenkins-specific files
+C:\ProgramData\Jenkins\.jenkins\workspace\my-app1\*
